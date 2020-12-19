@@ -1,6 +1,4 @@
-; msoda's (mintysoda_)
 ; Polybar Configuration
-; For BSPWM i3wm (& Forks)
 
 [nord]
 background = #2e3440
