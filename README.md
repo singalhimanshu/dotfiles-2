@@ -10,4 +10,4 @@
 * mpd
 
 ### Image
-[bspwm](https://i.postimg.cc/BvbSWy79/image.png)
+[bspwm](https://i.ibb.co/CWM4Vmr/image.png)
